@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+.post {
+  margin-bottom: 40px;
+}
+img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 99px;
+}
+.link {
+  font-weight: 600px;
+  text-decoration: none;
+  color: black;
+}
+.link:hover {
+  text-decoration: underline;
+  color: black;
+}
+.cat-3 {
+  background-color: #8d00ff !important;
+}
+.cat-4 {
+  background-color: #0078ff !important;
+}
+.cat-2 {
+  background-color: #ff8700 !important;
+}
+.warning {
+  color: #fff !important;
+  background-color: #f0ad4e !important;
+  border-color: #eea236 !important;
+}
+.primary {
+  color: #fff !important;
+  background-color: #204d74 !important;
+  border-color: #122b40 !important;
+}
